@@ -10,3 +10,4 @@ pwa-todo-app/
 	-app.js
 	-manifest.json
 	-service-worker.js
+ 	icons/
